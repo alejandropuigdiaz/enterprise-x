@@ -1,4 +1,4 @@
-# Revisión del programa y migración a cloud de Enterprise X
+# Migración a nube de Enterprise X
 
 ## Objetivo
 
@@ -29,7 +29,7 @@ El reporte está estructurado en tres partes principales:
 
 - **¿ Qué es Enterprise X ?**
 - **Hasta hoy**: Breve panorama del estado actual
-- **Futuro**: Visión a futuro y propuesta de programa de migración a cloud
+- **Futuro**: Visión a futuro y propuesta de programa de migración a nube
 
 <br/><br/><br/>
 
@@ -525,7 +525,7 @@ Se recomienda su uso para sistemas que requieran alta disponibilidad, alta trasf
 
 Se recomienda su uso para sistema que requieran acceder de manera directa y segura a sistemas y datos que se estén ejecutando en nube privada. Esto permite tener las ventajas de la nube privada y la nube pública.
 
-En general se recomienda como estrategia disminuir la inversión en compra de hardware para nube privada que puede quedar obsoleto en algunos años (3-5 años generalmente) y aumentar la inversión en nube pública y nube híbrida. Esto con el fin de potenciar una operación de TI global en Enterprise X. También empezar a aplicar técnicas de multinube para no depender de un único proveedor Cloud.
+En general se recomienda como estrategia disminuir la inversión en compra de hardware para nube privada que puede quedar obsoleto en algunos años (3-5 años generalmente) y aumentar la inversión en nube pública y nube híbrida. Esto con el fin de potenciar una operación de TI global en Enterprise X. También empezar a aplicar técnicas de multinube para no depender de un único proveedor de nube.
 
 <br/><br/>
 
