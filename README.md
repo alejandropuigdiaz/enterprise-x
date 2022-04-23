@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-El objetivo de este documento es mostrar brevemente el estado de la empresa Enterprise X hasta la fecha y un programa de migración a cloud que le permita a la empresa ser más eficiente, flexible y ágil. El estudio revisa:
+El objetivo de este documento es mostrar brevemente el estado de la empresa Enterprise X hasta la fecha y un programa de migración a nube que le permita a la empresa ser más eficiente, flexible y ágil. El estudio revisa:
 
 ### Aplicaciones
 
